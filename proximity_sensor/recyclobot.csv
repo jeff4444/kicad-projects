@@ -1,0 +1,9 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D6,D7,D3,D4,D2,D9,D10,D11,D8,D5";"LED_D3.0mm";10;"LED";;;
+2;"D1";"LED_D3.0mm_IRBlack";1;"IR204A";;;
+3;"Q1";"LED_D5.0mm_Clear";1;"BPW40";;;
+4;"Q3";"TO-92_Inline";1;"BC547";;;
+5;"R4";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";1;"10k";;;
+6;"U1";"DIP-18_W7.62mm";1;"LM3914N";;;
+7;"R5,R3";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";2;"200";;;
+8;"R1";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";1;"2.2K";;;

@@ -1,0 +1,220 @@
+{
+  "name": "Circuit",
+  "description": "",
+  "tstamps": "",
+  "source_file": "Circuit.kicad_sch",
+  "components": {
+    "R2": {
+      "symbol": "Device:R",
+      "ref": "R2",
+      "value": "10k",
+      "footprint": "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "D1": {
+      "symbol": "Sensor_Optical:BPW34",
+      "ref": "D1",
+      "value": "BPW34",
+      "footprint": "OptoDevice:Osram_DIL2_4.3x4.65mm_P5.08mm",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "U2": {
+      "symbol": "Amplifier_Operational:LM358",
+      "ref": "U2",
+      "value": "LM358",
+      "footprint": "Package_DIP:DIP-8_W7.62mm",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "#PWR02": {
+      "symbol": "power:GND",
+      "ref": "#PWR02",
+      "value": "GND",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "#FLG01": {
+      "symbol": "power:PWR_FLAG",
+      "ref": "#FLG01",
+      "value": "PWR_FLAG",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "D2": {
+      "symbol": "Sensor_Optical:BPW34",
+      "ref": "D2",
+      "value": "BPW34",
+      "footprint": "OptoDevice:Osram_DIL2_4.3x4.65mm_P5.08mm",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "#FLG02": {
+      "symbol": "power:PWR_FLAG",
+      "ref": "#FLG02",
+      "value": "PWR_FLAG",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "#PWR03": {
+      "symbol": "power:+5V",
+      "ref": "#PWR03",
+      "value": "+5V",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "R3": {
+      "symbol": "Device:R",
+      "ref": "R3",
+      "value": "5.1k",
+      "footprint": "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "C4": {
+      "symbol": "Device:C",
+      "ref": "C4",
+      "value": "0.1uF",
+      "footprint": "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "D3": {
+      "symbol": "Sensor_Optical:BPW34",
+      "ref": "D3",
+      "value": "BPW34",
+      "footprint": "OptoDevice:Osram_DIL2_4.3x4.65mm_P5.08mm",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "R5": {
+      "symbol": "Device:R",
+      "ref": "R5",
+      "value": "10k",
+      "footprint": "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "R1": {
+      "symbol": "Device:R",
+      "ref": "R1",
+      "value": "10k",
+      "footprint": "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "C3": {
+      "symbol": "Device:C",
+      "ref": "C3",
+      "value": "20uF",
+      "footprint": "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "C2": {
+      "symbol": "Device:C",
+      "ref": "C2",
+      "value": "1uF",
+      "footprint": "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "LS1": {
+      "symbol": "Device:Speaker",
+      "ref": "LS1",
+      "value": "Speaker",
+      "footprint": "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "U1": {
+      "symbol": "Amplifier_Audio:PAM8403D",
+      "ref": "U1",
+      "value": "PAM8403D",
+      "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "R4": {
+      "symbol": "Device:R",
+      "ref": "R4",
+      "value": "10k",
+      "footprint": "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "C1": {
+      "symbol": "Device:C",
+      "ref": "C1",
+      "value": "0.1uF",
+      "footprint": "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    }
+  },
+  "nets": {},
+  "subcircuits": [],
+  "annotations": []
+}

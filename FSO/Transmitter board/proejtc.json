@@ -1,0 +1,209 @@
+{
+  "name": "proejtc",
+  "description": "",
+  "tstamps": "",
+  "source_file": "proejtc.kicad_sch",
+  "components": {
+    "R4": {
+      "symbol": "Device:R",
+      "ref": "R4",
+      "value": "10k",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "R3": {
+      "symbol": "Device:R",
+      "ref": "R3",
+      "value": "10k",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "R1": {
+      "symbol": "Device:R",
+      "ref": "R1",
+      "value": "10k",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "#PWR01": {
+      "symbol": "power:+5V",
+      "ref": "#PWR01",
+      "value": "+5V",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "#FLG01": {
+      "symbol": "power:PWR_FLAG",
+      "ref": "#FLG01",
+      "value": "PWR_FLAG",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "J1": {
+      "symbol": "Connector_Audio:AudioPlug2",
+      "ref": "J1",
+      "value": "AudioPlug2",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "C1": {
+      "symbol": "Device:C",
+      "ref": "C1",
+      "value": "1uF",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "U1": {
+      "symbol": "Amplifier_Operational:LM358",
+      "ref": "U1",
+      "value": "LM358",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "R7": {
+      "symbol": "Device:R",
+      "ref": "R7",
+      "value": "39",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "C3": {
+      "symbol": "Device:C",
+      "ref": "C3",
+      "value": "0.1uf",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "R6": {
+      "symbol": "Device:R_Variable",
+      "ref": "R6",
+      "value": "R_Variable",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "C2": {
+      "symbol": "Device:C",
+      "ref": "C2",
+      "value": "10uF",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "R5": {
+      "symbol": "Device:R",
+      "ref": "R5",
+      "value": "1k",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "Q1": {
+      "symbol": "Transistor_BJT:2N3904",
+      "ref": "Q1",
+      "value": "Jeff",
+      "footprint": "Package_TO_SOT_THT:TO-92_Inline",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "LD1": {
+      "symbol": "Diode_Laser:PL520",
+      "ref": "LD1",
+      "value": "D6505I",
+      "footprint": "OptoDevice:LaserDiode_TO38ICut-3",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "#PWR03": {
+      "symbol": "power:GND",
+      "ref": "#PWR03",
+      "value": "GND",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "#FLG02": {
+      "symbol": "power:PWR_FLAG",
+      "ref": "#FLG02",
+      "value": "PWR_FLAG",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    },
+    "R2": {
+      "symbol": "Device:R",
+      "ref": "R2",
+      "value": "10k",
+      "footprint": "",
+      "datasheet": "",
+      "description": "",
+      "properties": {},
+      "tstamps": "",
+      "pins": []
+    }
+  },
+  "nets": {},
+  "subcircuits": [],
+  "annotations": []
+}

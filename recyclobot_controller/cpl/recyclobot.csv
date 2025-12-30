@@ -1,0 +1,9 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J2";"PinSocket_1x03_P2.54mm_Vertical";1;"Conn_01x03_Pin";;;
+2;"J1";"PinSocket_1x02_P2.54mm_Vertical";1;"Conn_01x02_Pin";;;
+3;"U2";"TO-92_Inline";1;"LM78L05_TO92";;;
+4;"U1";"SOP-20_7.5x12.8mm_P1.27mm";1;"HT12E";;;
+5;"SW4,SW3,SW2,SW1";"SW_Tactile_Straight_KSA0Axx1LFTR";4;"SW_Push";;;
+6;"R2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"1K";;;
+7;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"1M";;;
+8;"D1";"LED_D5.0mm";1;"LED";;;
